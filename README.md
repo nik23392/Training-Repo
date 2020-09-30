@@ -1,2 +1,2 @@
 # Training-Repo
-Knowledge transfer
+Knowledge transfer for training
